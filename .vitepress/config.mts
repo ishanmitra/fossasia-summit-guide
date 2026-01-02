@@ -6,12 +6,14 @@ export default defineConfig({
   description: "Participant guide for international travelers for FOSSASIA Summit 2026 at Bangkok",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/guide/image15.webp',
+    siteTitle: 'Summit 2026',
     nav: [
       { text: 'Home', link: '/guide/01-welcome' },
     ],
     sidebar: [
       {
-        text: 'Participant Guide',
+        text: 'International Visitor Guide',
         items: [
           { text: 'Welcome & Quick Start', link: '/guide/01-welcome' },
           { 

@@ -1,3 +1,9 @@
+<script setup>
+import HeroIntro from '../.vitepress/components/HeroIntro.vue'
+</script>
+
+<HeroIntro logo="/guide/image15.webp" />
+
 # Welcome Information & Quick Start
 
 **Sunday, March 8**: Community Day (9 AM)  
